@@ -21,7 +21,7 @@ How are you doing? I hope you're doing just fine. Anyway, I'm Arda, a self taugh
 - 💬 Ask me about **Python, Java, Git**
 - 📫 How to reach me: ardasak434@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: **I find russians and bunnies cute.**
+- ⚡ Fun fact: **I have Sadie Sink as my desktop wallpaper.**
 
 ## Contact With Me:
 E-mail: ardasak434@gmail.com
