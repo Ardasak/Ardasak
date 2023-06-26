@@ -14,15 +14,6 @@ How are you doing? I hope you're doing just fine. Anyway, I'm Arda, a self taugh
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ardasak)
 
-## Information About Me
-- 🔭 I’m currently working on _everything_
-- 🌱 I’m currently learning Flutter
-- 🤔 I’m looking for help with _life_
-- 💬 Ask me about **Python, Java, Git**
-- 📫 How to reach me: ardasak434@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: **I have Sadie Sink as my desktop wallpaper.**
-
 ## Contact With Me:
 E-mail: ardasak434@gmail.com
 
